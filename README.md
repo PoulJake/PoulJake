@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PoulJake
-- 👀 I’m interested in knowing how to code
+- 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
